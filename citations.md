@@ -1,6 +1,6 @@
 <h1>Citations of resources used!</h1>
 
-<p1> CMU graphics library and logo of the dragon is from: https://www.cs.cmu.edu/~112/index.html </p1>
+CMU graphics library and logo of the dragon is from: https://www.cs.cmu.edu/~112/index.html 
 
 background: https://www.tynker.com/community/projects/play/fruit-ninja-my-edtion-and-thanks-for-50k-views/5d8504bdb7ccdd0b5751fbbe/
 
