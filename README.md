@@ -12,3 +12,6 @@ To run CMU 112 Ninja, save the CMU-112 graphics library, images folder, score.tx
 <h3>Dependencies!</h3>
 To allow the graphics library to run, pip install requests, PIL, and tkinter. More in depth instructions can be found on the CMU 112 website: https://www.cs.cmu.edu/~112/notes/notes-graphics.html#installingModules
 
+
+Check out my YouTube video demo!
+https://www.youtube.com/watch?v=SSnbXY6uWoE
