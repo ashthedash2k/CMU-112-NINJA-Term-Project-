@@ -10,4 +10,5 @@ The goal of CMU 112 NINJA is to slash the flying circles on the screen to get po
 To run CMU 112 Ninja, save the CMU-112 graphics library, images folder, score.txt file, and main.py in the same directory. You just need to run main.py to play. To navigate, press the h key to get instructions, the e key to go home, and the p key to play. If you want to play another round, close the program and run it again, your highscores will be saved (unless you decide to reset the score.txt file).
 
 <h3>Dependencies!</h3>
+To allow the graphics library to run, pip install requests, PIL, and tkinter. More in depth instructions can be found on the CMU 112 website: https://www.cs.cmu.edu/~112/notes/notes-graphics.html#installingModules
 
