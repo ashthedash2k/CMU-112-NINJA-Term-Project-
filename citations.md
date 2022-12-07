@@ -7,3 +7,5 @@ background: https://www.tynker.com/community/projects/play/fruit-ninja-my-edtion
 fruit ninja font generator:https://www.google.com/search?client=safari&rls=en&q=fruit+ninja+font&ie=UTF-8&oe=UTF-8 
 
 lives counter: https://brightside.me/games/fruit-ninja-arcade-game-807909/
+
+All image edits done by me on procreate :P
